@@ -1,6 +1,6 @@
 ---
 title: 适配器模式
-tag: 设计模式
+tags: [设计模式,适应设计模式]
 categories: 设计模式
 ---
 

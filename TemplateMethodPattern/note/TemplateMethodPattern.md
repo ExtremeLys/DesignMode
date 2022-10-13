@@ -1,6 +1,6 @@
 ---
 title: 模版方法模式
-tag: 设计模式
+tags: [设计模式,交给子类]
 categories: 设计模式
 ---
 

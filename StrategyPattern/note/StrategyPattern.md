@@ -1,6 +1,6 @@
 ---
 title: 策略模式
-tag: 设计模式
+tags: [设计模式,分开考虑]
 categories: 设计模式
 ---
 
