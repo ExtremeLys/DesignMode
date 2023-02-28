@@ -1,5 +1,4 @@
----
-title: 装饰器模式
+ title: 装饰器模式
 tags: [设计模式,一致性]
 categories: 设计模式
 ---
