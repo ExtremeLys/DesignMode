@@ -1,7 +1,7 @@
 ---
-title:中介者模式
-tags:[设计模式,简单化]
-categories:设计模式
+title: 中介者模式
+tags: [设计模式,简单化]
+categories: 设计模式
 ---
 
 # Mediator模式（中介者模式）
